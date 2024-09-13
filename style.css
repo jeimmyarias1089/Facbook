@@ -1,0 +1,48 @@
+.parrafo { color: yellow;}
+
+
+}
+#titulo {
+    color: blueviolet;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;}
+
+ul li {color: blue;}
+ul {
+    background-color: brown;
+    }
+
+
+ol {
+    background-color: orange;
+    }
+
+/*---------Cajas-----*/
+#caja {
+    margin-bottom: 100px;
+}
+
+.box {
+        width: 100px; 
+        height: 100px;
+        background-color: red;
+        margin: 2px;
+        border: solid 2px #b0b31b;
+        padding: 20px 0 0 20px;
+        margin-left: 300px;
+        border-radius: 13px;
+        
+    }
+.Caja { 
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        margin: 10px;
+        border: solid 2px;
+        padding: 20px 0 0 20px;
+        margin-left: 300px;
+        border-radius: 13px;
+}
+
+        
